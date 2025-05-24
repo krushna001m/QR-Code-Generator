@@ -7,7 +7,7 @@ A fast and user-friendly web application to generate QR codes for URLs, text, an
 
 ## 🌍 Live Demo
 
-👉 [**Try it Now**](https://krushna001m.github.io/QR-Code-Generator/)
+👉 [**View**](https://q-0570.lovable.app/)
 
 ---
 
@@ -77,12 +77,16 @@ If you're cloning locally, ensure you have:
 
 ```plaintext
 QR-Code-Generator/
-├── public/               # Static files (if any)
-├── index.html            # Main HTML file
-├── style.css             # Tailwind CSS (or utility classes)
-├── script.js             # JavaScript for QR generation
-├── README.md             # Project documentation
-└── ...                   # Other config files
+├── public/                 # Static assets
+├── src/                    # Main application logic
+│   └── ...                 # Components, styles, utilities
+├── index.html              # HTML entry point
+├── package.json            # Project dependencies and scripts
+├── postcss.config.js       # PostCSS configuration
+├── tailwind.config.js      # Tailwind CSS configuration
+├── vite.config.js          # Vite configuration
+├── README.md               # Project documentation
+
 ```
 
 ---
