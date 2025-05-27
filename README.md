@@ -1,5 +1,5 @@
 
-# 🔳 QR Code 
+# 🔳 QR Code Generator
 
 A fast and user-friendly web application to generate QR codes for URLs, text, and more. Built using **HTML**, **Tailwind CSS**, and **JavaScript**, this tool helps users create and download QR codes instantly.
 
